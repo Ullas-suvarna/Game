@@ -1,0 +1,6 @@
+{
+  "name": "Tap the Circle",
+  "description": "A fast-paced 30-second arcade game where you tap the colorful circle containing 'Ullas' as quickly as possible before time runs out!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
